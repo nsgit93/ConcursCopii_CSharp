@@ -63,7 +63,7 @@ A new participation can be added by pressing the "Adauga participare" button, wh
 The user data is validated before storing it in the database.
 ```
 
-### Login screen
+### Logout screen
 
 <img src="screenshots/logout_screen.jpg" width="600" height="400">
 
