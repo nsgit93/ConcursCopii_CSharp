@@ -23,6 +23,7 @@ The main design patterns used in this application are:
 ```
 ```
 1. Client-Server
+The communication between the client and the server is done with the help of .NET remoting.
 ```
 
 ```
